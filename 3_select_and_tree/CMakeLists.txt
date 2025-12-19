@@ -1,0 +1,3 @@
+add_executable(1TopK 1TopK.cpp)
+add_executable(2SerializeAndDeserialize 2SerializeAndDeserialize.cpp)
+add_executable(3PreOrder 3PreOrder.cpp)

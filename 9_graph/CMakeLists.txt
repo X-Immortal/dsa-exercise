@@ -1,0 +1,4 @@
+add_executable(1ShortestPathNaiveAlgorithm 1ShortestPathNaiveAlgorithm.cpp)
+add_executable(2CycleInGraph 2CycleInGraph.cpp)
+add_executable(3Biparted 3Biparted.cpp)
+add_executable(4CycleInGraphII 4CycleInGraphII.cpp)

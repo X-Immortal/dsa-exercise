@@ -1,0 +1,2 @@
+add_executable(1MinimumHeightTree 1MinimumHeightTree.cpp)
+add_executable(2MinimumSpanningTree 2MinimumSpanningTree.cpp)

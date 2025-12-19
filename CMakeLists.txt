@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 4.0)
+project(homework)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_subdirectory(1_basic_data_structure)
+add_subdirectory(2_divide_and_conquer)
+add_subdirectory(3_select_and_tree)
+add_subdirectory(4_sort)
+add_subdirectory(5_greedy)
+add_subdirectory(6_dynamic_programming)
+add_subdirectory(7_heap)
+add_subdirectory(8_SearchTree_HashTable_DisjointSet)
+add_subdirectory(9_graph)
+add_subdirectory(10_spanning_tree)
+add_subdirectory(11_shortest_path)

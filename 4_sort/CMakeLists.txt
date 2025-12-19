@@ -1,0 +1,2 @@
+add_executable(1QuickSort 1QuickSort.cpp)
+add_executable(3SortingAndDeduplication 3SortingAndDeduplication.cpp)

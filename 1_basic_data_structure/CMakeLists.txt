@@ -1,0 +1,5 @@
+add_executable(1DynamicArray 1DynamicArray.cpp)
+add_executable(2CircularQueue 2CircularQueue.cpp)
+add_executable(4LinkedList 4LinkedList.cpp)
+add_executable(3TwoStackOneQueue 3TwoStackOneQueue.cpp)
+add_executable(5Train 5Train.cpp)
